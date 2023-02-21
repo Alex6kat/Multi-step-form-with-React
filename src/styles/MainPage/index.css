@@ -1,0 +1,9 @@
+.mainpage{
+  position: relative;
+  margin: 0 auto;
+}
+@media (max-width:1000px){
+  .mainpage{
+    height: 90vh;
+  }
+}

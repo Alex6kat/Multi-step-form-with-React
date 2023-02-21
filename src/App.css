@@ -1,0 +1,15 @@
+.App{
+  height: 90vh;
+  background-color: white;
+  margin-top: 5vh!important;
+}
+@media (max-width: 768px){
+  .App{
+    width: 100%!important;
+  }
+}
+/* .sidebar {
+  background-image: url(./bg-sidebar-desktop.svg)!important;
+  background-size: cover;
+  width: 100%;
+} */

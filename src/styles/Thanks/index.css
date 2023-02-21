@@ -1,0 +1,8 @@
+.thanks {
+  /* position: absolute; */
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 15vh;
+}
